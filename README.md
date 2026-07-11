@@ -33,8 +33,8 @@
 _예시 (`urls.csv` 내용)_:
 
 ```csv
-https://share.gemini.google/3pRaVt5cLssB
-https://share.gemini.google/0vIIKqUmabU2
+https://share.gemini.google/test_url1
+https://share.gemini.google/test_url2
 ```
 
 > **Note**  
@@ -77,14 +77,14 @@ https://share.gemini.google/0vIIKqUmabU2
 
 ### 생성된 CSV 파일 구조
 
-| [대화 메타데이터] |                                          |
-| :---------------- | :--------------------------------------- |
-| 대화 제목         | 2026년 하반기 경찰공무원 경채 안내       |
-| 공유 URL          | https://share.gemini.google/3pRaVt5cLssB |
-| 마지막 사용 모델  | 3.1 Pro                                  |
-| 대화 시작일       | 2026년 7월 11일 오후 01:37               |
-| 링크 게시일       | 2026년 7월 11일 오후 01:52에 게시됨      |
-|                   |                                          |
+| [대화 메타데이터] |                                       |
+| :---------------- | :------------------------------------ |
+| 대화 제목         | 테스트 재미나이 대화제목              |
+| 공유 URL          | https://share.gemini.google/test_url1 |
+| 마지막 사용 모델  | 3.1 Pro                               |
+| 대화 시작일       | 2026년 7월 11일 오후 01:37            |
+| 링크 게시일       | 2026년 7월 11일 오후 01:52에 게시됨   |
+|                   |                                       |
 
 | No. | 질문  | 대답                 |
 | :-- | :---- | :------------------- |
